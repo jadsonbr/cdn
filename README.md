@@ -1,4 +1,4 @@
-Usar RawGit para gerar o CDN copiando o Raw do arquivo
+Use RawGit to generate the CDN copying Raw of file
 =======================================
 
 link
